@@ -1,5 +1,5 @@
-### Turning Data into Information
-### and Information into Insights
+# Turning Data into Information
+#   and Information into Insights
 
 * Well versed with major ML algorithms: Supervised, Unsupervised, NLP etc.
 
