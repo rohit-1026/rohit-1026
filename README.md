@@ -1,4 +1,13 @@
-### Hi there 👋
+### Turning Data into Information
+### and Information into Insights
+
+* Well versed with major ML algorithms: Supervised, Unsupervised, NLP etc.
+
+* Intern at AlmaBetter
+* Currently, focussed on Natural Language Processing etc.
+
+You can reach me out on: rohitpawar2610@gmail.com
+
 
 <!--
 **rohit-1026/rohit-1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
